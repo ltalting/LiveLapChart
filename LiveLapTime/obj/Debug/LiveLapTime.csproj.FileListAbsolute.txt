@@ -1,0 +1,10 @@
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\bin\Debug\LiveLapTime.exe.config
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\bin\Debug\LiveLapTime.exe
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\bin\Debug\LiveLapTime.pdb
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.csprojAssemblyReference.cache
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.Properties.Resources.resources
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.csproj.GenerateResource.cache
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.csproj.CoreCompileInputs.cache
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.exe
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.pdb
+C:\Users\lalting\OneDrive - Indianapolis Motor Speedway, LLC\Projects\LiveLapTime\LiveLapTime\obj\Debug\LiveLapTime.LiveLapTime.resources
